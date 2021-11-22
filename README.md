@@ -12,8 +12,8 @@
 
 ***is used for both bold and italic***
 
- (Google) https://www.google.com
-(Taj Mahal) 
+ [Google] https://www.google.com
+[Taj Mahal]
 https://cdn.britannica.com/86/170586-050-AB7FEFAE/Taj-Mahal-Agra-India.jpg
 
 * Fruits 
@@ -21,6 +21,13 @@ https://cdn.britannica.com/86/170586-050-AB7FEFAE/Taj-Mahal-Agra-India.jpg
   * Apples
   * Bananas
 1. Vegetables
-  1.Tomatoes
-  2. Carrots
-  3. Onions
+
+  i.  Tomatoes
+
+  ii.  Carrots
+
+  iii.  Onions
+
+  Table 1 | Table 2
+  ---------|------
+ Name        Roll no
