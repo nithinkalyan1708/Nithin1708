@@ -12,9 +12,9 @@
 
 ***is used for both bold and italic***
 
- [Google] https://www.google.com
-[Taj Mahal]
-(://cdn.britannica.com/86/170586-050-AB7FEFAE/Taj-Mahal-Agra-India.jpg)
+ [Google]( https://www.google.com)
+![Taj Mahal]
+
 
 * Fruits 
   * Mangoes
