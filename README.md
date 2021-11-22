@@ -12,6 +12,15 @@
 
 ***is used for both bold and italic***
 
- (Google) https://www.google.com/
+ (Google) https://www.google.com
+(Taj Mahal) 
+https://cdn.britannica.com/86/170586-050-AB7FEFAE/Taj-Mahal-Agra-India.jpg
 
-
+* Fruits 
+  * Mangoes
+  * Apples
+  * Bananas
+1. Vegetables
+  1.Tomatoes
+  2. Carrots
+  3. Onions
